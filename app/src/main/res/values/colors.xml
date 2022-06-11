@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pembe">#ADFF80AB</color>
+    <color name="pembe2">#ADFFD7E5</color>
+    <color name="mor">#8D4DC5</color>
+    <color name="mor2">#D1A7F6</color>
+    <color name="gray">#F2F4F4</color>
+    <color name="red">#FF0057</color>
+</resources>
